@@ -3,4 +3,4 @@
 sentry-kubernetes:
   sentry:
     dsn: http://1991f92fa5ba4617b2f7b71c4fa6ff99@localhost:9001/6
-    logLevel: debug
+    logLevel: ~
